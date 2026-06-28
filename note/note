@@ -1,0 +1,20 @@
+
+pr tambahkan LayoutBuilder di ui
+
+// menghapus dan menambahkan cache
+flutter clean
+flutter pub get
+
+// release aplikasi
+flutter build apk --release
+
+// Semua baris yang terseleksi akan toggle komentar
+Ctrl + A
+Ctrl + /
+
+// hapus semua komentar di 1 file tanpa pilih manual
+Ctrl + H
+Aktifkan regex (ikon .*)
+//.*
+Replace All
+
